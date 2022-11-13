@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cph101&label=Profile Visitors&color=001eff&style=flat" alt="cph101" /> 
-  <img href="https://developer.apple.com/xcode/" src="https://img.shields.io/badge/Replit/?logo=Replit" alt="editor">
+  <img href="https://developer.apple.com/xcode/" src="https://img.shields.io/badge/Editor-Replit-yellowgreen/?logo=Replit" alt="editor">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/cph101?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=g&label=User%20Followers&logo=github">
