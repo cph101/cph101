@@ -10,4 +10,4 @@
        </p>
 <p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=gotham&no-bg=true" alt="cph101" /></a> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cph101&theme=github-dark&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cph101&theme=github-dark&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932&background=DD272700)](https://git.io/streak-stats)
