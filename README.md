@@ -10,4 +10,4 @@
        </p>
 <p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=gotham" alt="cph101" /></a> </p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cph101&theme=gotham"/></p><br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cph101&theme=default&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932"/></p><br>
