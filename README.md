@@ -8,6 +8,6 @@
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/cph101?color=6ac932&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=6ac932&label=User%20Followers&logo=github">
        </p>
-<p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=gotham&no-bg=true" alt="cph101" /></a> </p>
+<p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=matrix&no-bg=true" alt="cph101" /></a> </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cph101&theme=github-dark&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932&background=DD272700)](https://git.io/streak-stats)
