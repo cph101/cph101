@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ac932&width=510&lines=cph101+-+JavaScript+and+SwifUI+developer;3+years+experience+in+HTML+and+JavaScript;Dabbling+in+Swift+%F0%9F%A6%85)]()
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ac932&width=510&lines=cph101+-+Fullstack;4+years+experience+in+frontend+and+backend+technologies;Dabbling+in+Swift+%F0%9F%A6%85)]()
 
 <h2>About me</h2>
 <p align="left"> 
