@@ -3,9 +3,8 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=cph101&label=Profile%20Visitors&color=6ac932&style=flat" alt="cph101" /> 
-  <img href="https://replit.com/@cph101" src="https://img.shields.io/badge/Editor-Replit-yellowgreen/?logo=Replit&color=6ac932" alt="editor">
-  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=6ac932" alt="html">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/cph101?color=6ac932&label=User%20Stars&logo=github&logoColor=yellow">
+  <img href="https://replit.com/@cph101" src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-yellowgreen/?logo=intellijidea&color=6ac932" alt="editor">
+  <img src="https://img.shields.io/badge/Addicted%20to-React-blue/?logo=react&logoColor=light-blue&color=6ac932" alt="best language">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=6ac932&label=User%20Followers&logo=github">
        </p>
 <p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=matrix&no-bg=true" alt="cph101" /></a> </p>
