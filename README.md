@@ -9,7 +9,7 @@
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=6ac932&label=User%20Followers&logo=github">
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,js,css,react,nodejs,java,bash,idea,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,js,css,swift,react,nodejs,java,bash,idea,replit,firebase" />
   </a>
 </p>
 
