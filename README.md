@@ -6,7 +6,11 @@
   <img href="https://replit.com/@cph101" src="https://img.shields.io/badge/Editor-IntelliJ%20IDEA-yellowgreen/?logo=intellijidea&color=6ac932" alt="editor">
   <img src="https://img.shields.io/badge/Addicted%20to-React-blue/?logo=react&logoColor=light-blue&color=6ac932" alt="best language">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/cph101?color=6ac932&label=User%20Followers&logo=github">
-       </p>
-<p align="left"><a><img src="https://github-profile-trophy.vercel.app/?username=cph101&theme=matrix&no-bg=true" alt="cph101" /></a> </p>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,css,react,nodejs,bash,idea,firebase" />
+  </a>
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=cph101&theme=github-dark&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932&background=DD272700)](https://git.io/streak-stats)
