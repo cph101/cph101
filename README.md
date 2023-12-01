@@ -14,4 +14,4 @@
 </p>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cph101&theme=github-dark&stroke=6AC932&ring=6AC932&sideLabels=6AC932&currStreakLabel=6AC932&fire=6AC932&background=DD272700)](https://git.io/streak-stats)
+<img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=cph101&theme=github-compact&hide_border=true&radius=5" width="65%" height="120%" />
