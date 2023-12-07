@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6ac932&width=510&lines=cph101+-+Fullstack;4+years+experience+in+frontend+and+backend+technologies;Dabbling+in+Swift+%F0%9F%A6%85)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AC932&random=false&width=520&height=30&lines=Fullstack+web+and+Minecraft+mod+developer;Currently+working+with+React+and+Java;Coding+non-stop+since+2018)](https://git.io/typing-svg)
 
 <h2>About me</h2>
 <p align="left"> 
