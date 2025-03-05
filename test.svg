@@ -1,57 +1,32 @@
 <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    /* Hide the radio buttons */
-    input { display: none; }
-
-    /* Tab labels styling */
-    .tab-label { fill: lightgray; cursor: pointer; }
-    .tab-label-text { font-size: 14px; text-anchor: middle; fill: black; pointer-events: none; }
-
-    /* Default content visibility */
-    .content { display: none; }
-
-    /* When a tab is selected, highlight it and show the content */
-    #tab1:checked ~ .tabs [for="tab1"],
-    #tab2:checked ~ .tabs [for="tab2"] {
-      fill: white; font-weight: bold;
-    }
-
-    #tab1:checked ~ .content1, 
-    #tab2:checked ~ .content2 {
-      display: block;
-    }
-  </style>
-
-  <!-- Invisible radio buttons to track state -->
-  <foreignObject width="0" height="0">
-    <input type="radio" id="tab1" name="tabs" checked />
-    <input type="radio" id="tab2" name="tabs" />
+  <foreignObject x="10" y="10" width="380" height="180" style="pointer-events: all;">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .tabs { display: flex; border-bottom: 2px solid black; }
+        .tab { padding: 10px; cursor: pointer; border: 1px solid black; border-bottom: none; background: lightgray; }
+        .tab.active { background: white; font-weight: bold; }
+        .content { padding: 10px; border: 1px solid black; }
+      </style>
+      <div class="tabs">
+        <div class="tab active" data-index="0">Tab 1</div>
+        <div class="tab" data-index="1">Tab 2</div>
+      </div>
+      <div id="content-0" class="content">Content for Tab 1</div>
+      <div id="content-1" class="content" style="display:none;">Content for Tab 2</div>
+      <script>
+        function switchTab(index) {
+          document.querySelectorAll('.tab').forEach((tab, i) => {
+            tab.classList.toggle('active', i === index);
+          });
+          document.querySelectorAll('.content').forEach((content, i) => {
+            content.style.display = i === index ? 'block' : 'none';
+          });
+        }
+        document.querySelectorAll('.tab').forEach(tab => {
+          tab.addEventListener('click', () => switchTab(parseInt(tab.dataset.index)));
+          tab.addEventListener('touchstart', () => switchTab(parseInt(tab.dataset.index))); 
+        });
+      </script>
+    </body>
   </foreignObject>
-
-  <!-- Tab buttons -->
-  <g class="tabs">
-    <!-- Tab 1 -->
-    <label for="tab1">
-      <rect class="tab-label" x="10" y="10" width="80" height="30" />
-      <text class="tab-label-text" x="50" y="30">Tab 1</text>
-    </label>
-
-    <!-- Tab 2 -->
-    <label for="tab2">
-      <rect class="tab-label" x="100" y="10" width="80" height="30" />
-      <text class="tab-label-text" x="140" y="30">Tab 2</text>
-    </label>
-  </g>
-
-  <!-- Tab content areas -->
-  <g class="content content1">
-    <rect x="10" y="50" width="380" height="150" fill="white" stroke="black"/>
-    <text x="20" y="80" font-size="16" fill="black">Content for Tab 1</text>
-  </g>
-
-  <g class="content content2">
-    <rect x="10" y="50" width="380" height="150" fill="white" stroke="black"/>
-    <text x="20" y="80" font-size="16" fill="black">Content for Tab 2</text>
-  </g>
-
 </svg>
