@@ -1,0 +1,28 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="10" y="10" width="380" height="180">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .tabs { display: flex; border-bottom: 2px solid black; }
+        .tab { padding: 10px; cursor: pointer; border: 1px solid black; border-bottom: none; background: lightgray; }
+        .tab.active { background: white; font-weight: bold; }
+        .content { padding: 10px; border: 1px solid black; }
+      </style>
+      <div class="tabs">
+        <div class="tab active" onclick="switchTab(0)">Tab 1</div>
+        <div class="tab" onclick="switchTab(1)">Tab 2</div>
+      </div>
+      <div id="content-0" class="content">Content for Tab 1</div>
+      <div id="content-1" class="content" style="display:none;">Content for Tab 2</div>
+      <script>
+        function switchTab(index) {
+          document.querySelectorAll('.tab').forEach((tab, i) => {
+            tab.classList.toggle('active', i === index);
+          });
+          document.querySelectorAll('.content').forEach((content, i) => {
+            content.style.display = i === index ? 'block' : 'none';
+          });
+        }
+      </script>
+    </body>
+  </foreignObject>
+</svg>
